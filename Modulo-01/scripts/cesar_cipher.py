@@ -1,3 +1,9 @@
+# -------------------------------------------------------------------------
+# SCRIPT DE ESTUDO - PROGRAMA HACKERS DO BEM
+# Fonte: Laboratório Prático - Módulo 1 (Cibersegurança)
+# Objetivo: Implementação e análise da Cifra de César para Confidencialidade
+# -------------------------------------------------------------------------
+
 def caesar_cipher(text, shift):
     """
     Função para cifrar ou decifrar um texto usando a Cifra de César.
