@@ -1,24 +1,18 @@
 
+🛡️ Hackers do Bem - Cybersecurity Journey
+Este repositório documenta minha trajetória técnica no programa Hackers do Bem, focado em segurança defensiva e inteligência de ameaças. Seguindo as diretrizes de ética e gamificação do programa, este portfólio não contém respostas ou resoluções explícitas das atividades, mas sim o registro de metodologias, ferramentas utilizadas e competências desenvolvidas.
 
-# 🛡️ Hackers do Bem - Cybersecurity Portfolio
-
-Bem-vindo ao meu repositório de laboratórios e projetos práticos desenvolvidos durante o programa **Hackers do Bem**. Este espaço serve como documentação técnica da minha jornada em cibersegurança, focando na aplicação prática de ferramentas de defesa, análise de vulnerabilidades e automação.
-
-## 👤 Sobre Mim
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com foco em transição de carreira para as áreas de **Cloud e DevOps**. Recentemente concluí o programa **AWS re/Start**, o que me deu uma base sólida em infraestrutura de nuvem, que agora integro aos conceitos de segurança defensiva.
-
----
+👤 Perfil e Objetivos
+Sou estudante de Análise e Desenvolvimento de Sistemas com foco em transição para as áreas de Cloud e DevOps. Integro aqui conhecimentos de infraestrutura (AWS) com práticas de cibersegurança.
 
 ## 📑 Índice de Aprendizado
-Clique nos links abaixo para ver os detalhes técnicos de cada etapa:
+Navegue pelos links abaixo para conferir o detalhamento metodológico, ferramentas utilizadas e competências desenvolvidas em cada etapa do programa:
 
-* [**Módulo 01: Fundamentos e Engenharia Social**](./Modulo-01/README.md)
+* 📁 [**Módulo 01: Fundamentos de Segurança e Engenharia Social**](./Modulo-01/README.md)
     * *Status: Concluído (Nota 10/10)* ✅
-    * *Destaques: Integridade de arquivos, Criptografia em Python, OSINT e Adversarial ML.*
+    * *Foco: Tríade CIA, Integridade, Criptografia com Python, OSINT e Segurança em IA.*
 
-* **Módulo 02: Ameaças e Malwares**
+* 📁 **Módulo 02: Ameaças, Malwares e Controles**
     * *Status: Em breve...* ⏳
 
 ---
-
