@@ -1,5 +1,5 @@
 
-# 🛡️ Hackers do Bem - Cybersecurity Journey
+# 🛡️ Hackers do Bem - Cybersecurity Portfolio
 Este repositório documenta minha trajetória técnica no programa Hackers do Bem, focado em segurança defensiva e inteligência de ameaças. Seguindo as diretrizes de ética e gamificação do programa, este portfólio não contém respostas ou resoluções explícitas das atividades, mas sim o registro de metodologias, ferramentas utilizadas e competências desenvolvidas.
 
 ## 👤 Perfil e Objetivos
