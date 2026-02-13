@@ -1,31 +1,36 @@
-# 📂 Detalhamento Técnico: Módulo 01
+📂 Módulo 01: Fundamentos de Segurança e Engenharia Social
+Neste módulo inicial, o foco foi estabelecer a base prática sobre os pilares da segurança da informação e técnicas de reconhecimento passivo.
 
-Neste módulo inicial, o foco foi estabelecer a base prática sobre os pilares da segurança da informação e técnicas de reconhecimento passivo. Seguindo as diretrizes de ética e gamificação do programa, esta documentação foca na **metodologia e ferramentas**, sem expor resoluções explícitas ou chaves das atividades.
+Nota Ética: Em conformidade com as diretrizes de gamificação do programa Hackers do Bem, esta documentação foca na metodologia e ferramentas utilizadas, sem expor resoluções explícitas das atividades.
 
-## 🛠️ Atividades Práticas: Integridade e Automação
+🛠️ Tecnologias e Ferramentas Exploradas
+Ambiente: Kali Linux.
 
-### 🧪 Garantia de Integridade de Dados
-* **Análise Comparativa:** Utilização dos comandos `diff` e `cmp` no ambiente Kali Linux para identificação de discrepâncias entre arquivos de texto e dados binários (imagens).
-* **Validação por Hashing:** Aplicação do algoritmo **MD5SUM** para gerar assinaturas digitais, garantindo a integridade bit a bit e confirmando a identidade entre arquivos originais e cópias.
+Integridade: diff, cmp, md5sum.
 
-### 🔑 Criptografia Aplicada
-* **Automação com Python:** Desenvolvimento de script em Python (disponível em [`/scripts/cesar_cipher.py`](./scripts/cesar_cipher.py)) para implementação da Cifra de César, automatizando processos de cifragem e decifragem para reforçar o pilar da Confidencialidade.
-* **Cifras de Substituição:** Exploração da cifra simétrica ROT13 via terminal Linux.
+Criptografia: Python, ROT13.
 
-### 📝 Gestão de Fluxo de Trabalho
-* **Taskwarrior:** Configuração de controle de tarefas e fluxos de trabalho via linha de comando para otimização de rotinas de segurança.
+Gestão de Fluxo: Taskwarrior.
 
----
+OSINT: WHOIS, Maltego.
 
-## 🕵️ Reconhecimento e Inteligência (OSINT)
+Engenharia Social: ShellPhish.
 
-### 🎣 Engenharia Social
-* **Simulação de Vetores de Ataque:** Uso da ferramenta **ShellPhish** em ambiente controlado para entender o funcionamento de ataques de phishing e desenvolver mentalidade defensiva.
+🚀 Competências e Atividades Práticas
+1. Garantia de Integridade e Automação
 
-### 🌐 Reconhecimento de Fontes Abertas (OSINT)
-* **Investigação de Domínios:** Utilização da ferramenta **WHOIS** para levantamento de dados públicos de infraestrutura organizacional.
-* **Mapeamento de Infraestrutura:** Uso do software **Maltego** para reconhecimento passivo, mapeando servidores de e-mail (MX), domínios, nomes DNS e e-mails institucionais.
+Identificação de discrepâncias em arquivos e validação bit a bit via Hashing (MD5), garantindo a identidade de dados originais e cópias.
 
-### 🤖 Segurança em Inteligência Artificial
-* **Ataques Adversariais:** Estudo de como modelos de Machine Learning podem ser enganados através de pequenas perturbações nos dados de entrada, comprometendo a precisão de classificações automáticas.
+2. Criptografia Aplicada
 
+Desenvolvimento de script em Python (disponível em: /scripts/cesar_cipher.py) para implementação da Cifra de César, automatizando processos de cifragem e reforçando o pilar da Confidencialidade.
+
+3. Reconhecimento e Inteligência (OSINT)
+
+Mapeamento de infraestrutura organizacional (MX, DNS) e simulação de vetores de ataque de phishing para desenvolvimento de mentalidade defensiva.
+
+4. Segurança em Inteligência Artificial
+
+Estudo de ataques adversariais e como perturbações em dados podem comprometer modelos de Machine Learning.
+
+Este registro faz parte do meu portfólio de transição para as áreas de Cloud e DevOps, integrando segurança desde a base da infraestrutura.
