@@ -13,7 +13,7 @@ Navegue pelos links abaixo para conferir o detalhamento metodológico, ferrament
     * *Foco: Tríade CIA, Integridade, Criptografia com Python, OSINT e Segurança em IA.*
 
 * 📁 [**Módulo 02: Ameaças, Malwares e Controles**](./Modulo-02/README.md)
-    * *Status: Concluído ✅
+    * *Status: Concluído (Em correção..)*✅
     * *Foco: Defesa em camadas, análise de artefatos e hardening de sistemas.
 
 * 📁 **Módulo 03: **
