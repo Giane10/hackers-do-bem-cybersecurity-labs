@@ -2,7 +2,7 @@
 
 Este diretório registra o desenvolvimento de competências técnicas no terceiro módulo do programa **Hackers do Bem**, focado no mapeamento de superfícies de ataque, análise de tráfego TCP/IP, gerenciamento de vulnerabilidades e implementação de estratégias de resiliência.
 
-**Nota Ética:** Em conformidade com as diretrizes de ética e gamificação do **Hackers do Bem**, esta documentação foca na metodologia e ferramentas, sem expor resoluções das atividades práticas.
+> **Nota Ética:** Em conformidade com as diretrizes de ética e gamificação do **Hackers do Bem**, esta documentação foca na metodologia e ferramentas, sem expor resoluções das atividades práticas.
 
 ## 🛠️ Tecnologias e Ferramentas Exploradas
 * **Sistemas Operacionais:** Kali Linux e Windows Server 2022.
