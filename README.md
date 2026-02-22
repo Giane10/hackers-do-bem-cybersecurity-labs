@@ -16,7 +16,11 @@ Navegue pelos links abaixo para conferir o detalhamento metodológico, ferrament
     * *Status: Concluído (Em correção..)*✅
     * *Foco: Defesa em camadas, análise de artefatos e hardening de sistemas.
 
-* 📁 **Módulo 03: **
+* 📁 [**Módulo 03: Técnicas Utilizadas na Identificação de Ameaças**](./Modulo-03/README.md)
+    * *Status: Concluído (Em correção..)*✅
+    * *Foco: Reconhecimento de rede, análise de tráfego TCP/IP, gestão de vulnerabilidades e estratégias de resiliência.
+
+* 📁 **Módulo 04: **
   
     * *Status: Em breve...* ⏳
 ---
