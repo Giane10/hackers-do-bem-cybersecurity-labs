@@ -13,14 +13,18 @@ Navegue pelos links abaixo para conferir o detalhamento metodológico, ferrament
     * *Foco: Tríade CIA, Integridade, Criptografia com Python, OSINT e Segurança em IA.*
 
 * 📁 [**Módulo 02: Ameaças, Malwares e Controles**](./Modulo-02/README.md)
-    * *Status: Concluído (Em correção..)*✅
+    * *Status: Concluído (Nota 10/10)*✅
     * *Foco: Defesa em camadas, análise de artefatos e hardening de sistemas.
 
 * 📁 [**Módulo 03: Técnicas Utilizadas na Identificação de Ameaças**](./Modulo-03/README.md)
     * *Status: Concluído (Em correção..)*✅
     * *Foco: Reconhecimento de rede, análise de tráfego TCP/IP, gestão de vulnerabilidades e estratégias de resiliência.
 
-* 📁 **Módulo 04: **
+* 📁 [**Módulo 4: Controles de acesso**](./Modulo-04/README.md)
+    * *Status: Concluído (Em correção..)*✅
+    * *Foco: Autenticação centralizada com RADIUS, implementação de MFA/2FA (TOTP), hardening de acesso e gestão de tokens cross-platform.
+
+* 📁 **Módulo 05: **
   
     * *Status: Em breve...* ⏳
 ---
