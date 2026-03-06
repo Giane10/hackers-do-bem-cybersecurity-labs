@@ -20,7 +20,7 @@ Navegue pelos links abaixo para conferir o detalhamento metodológico, ferrament
     * *Status: Concluído (Em correção..)*✅
     * *Foco: Reconhecimento de rede, análise de tráfego TCP/IP, gestão de vulnerabilidades e estratégias de resiliência.
 
-* 📁 [**Módulo 4: Controles de acesso**](./Modulo-04/README.md)
+* 📁 [**Módulo 4: Gestão de Identidades e Controles de Acesso (IAM)**](./Modulo-04/README.md)
     * *Status: Concluído (Em correção..)*✅
     * *Foco: Autenticação centralizada com RADIUS, implementação de MFA/2FA (TOTP), hardening de acesso e gestão de tokens cross-platform.
 
