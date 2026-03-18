@@ -30,7 +30,7 @@ Navegue pelos links abaixo para conferir o detalhamento metodológico, ferrament
 
 * 📁 [**Módulo 6: Proteção Web e Desenvolvimento Seguro](./Modulo-06/README.md)
    * *Status: Concluído (Aguardando correção..)*✅
-   * *Foco: Segurança Web (OWASP Top 10), SQLi, SDLC e Automação com Python/PowerShell.
+   * *Foco: Segurança Web (OWASP Top 10), automação de auditoria com Python/PowerShell e Ciclo de Vida de Desenvolvimento Seguro (SDLC).
 
 * 📁 [**Módulo 7: Redundância, Backup, Segurança física e Destruição de dados](./Modulo-07/README.md)
    * *Status: Concluído (Aguardando correção..)*✅
