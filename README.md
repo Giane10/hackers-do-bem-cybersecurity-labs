@@ -28,7 +28,11 @@ Navegue pelos links abaixo para conferir o detalhamento metodológico, ferrament
    * *Status: Concluído (Em correção..)*✅
    * *Foco: Autenticação centralizada com RADIUS, implementação de MFA/2FA (TOTP), hardening de acesso e gestão de tokens cross-platform.
 
-* 📁 **Módulo 06: **
+* 📁 [**Módulo 6: Proteção Web e Desenvolvimento Seguro](./Modulo-06/README.md)
+   * *Status: Concluído (Em correção..)*✅
+   * *Foco: .
+
+* 📁 **Módulo 07: **
   
     * *Status: Em breve...* ⏳
 ---
