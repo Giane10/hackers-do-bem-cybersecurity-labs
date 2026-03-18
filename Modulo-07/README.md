@@ -24,7 +24,7 @@ Este repositório documenta as implementações práticas de estratégias de bac
 
 ### 🛠️ Tecnologias Utilizadas
 * **Sistemas:** Kali Linux, Windows Server 2022.
-* **Ferramentas de Backup:** `duplicity`, `rsync`, `OneDrive`.
+* **Ferramentas de Backup: `duplicity`, `rsync`, `OneDrive` (Windows Server).
 * **Segurança Forense:** `shred` (Padrão DoD), `wipefs`, `dd`.
 * **Gestão de Discos:** `mdadm`, `fdisk`, `mkfs.ext4`.
 
