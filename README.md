@@ -32,6 +32,10 @@ Navegue pelos links abaixo para conferir o detalhamento metodológico, ferrament
    * *Status: Concluído (Em correção..)*✅
    * *Foco: .
 
+* 📁 [**Módulo 7: Redundância, Backup, Segurança física e Destruição de dados](./Modulo-07/README.md)
+   * *Status: Concluído (Em correção..)*✅
+   * *Foco: .
+
 * 📁 **Módulo 07: **
   
     * *Status: Em breve...* ⏳
