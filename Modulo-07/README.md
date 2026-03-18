@@ -13,20 +13,20 @@ Este repositório documenta as implementações práticas de estratégias de bac
 * **Agendamento de Tarefas:** Automação de rotinas de backup através do `Crontab`, garantindo a execução de tarefas críticas sem intervenção humana.
 * **Replicação Síncrona em Nuvem:** Integração de ambiente Windows Server 2022 com **OneDrive Personal**, configurando o backup automático de pastas de sistema para garantir a disponibilidade geográfica dos dados.
 
-### 🔐 Backups Criptografados e Diferenciais (Duplicity)
-* **Backups Incrementais e Diferenciais:** Utilização da ferramenta **Duplicity** para otimizar o armazenamento, registrando apenas as alterações (*deltas*) desde o último backup completo.
-* **Segurança e Criptografia:** Implementação de proteção de dados em repouso através de criptografia **GPG (GnuPG)**, garantindo que apenas portadores da *passphrase* possam restaurar as informações.
-* **Recuperação de Desastres:** Testes práticos de restauração de arquivos para validar a integridade dos backups e o tempo de recuperação (RTO).
+### 🔐 Backups Criptografados e Incrementais (Duplicity)
+* **Eficiência de Armazenamento:** Utilização da ferramenta **Duplicity** para registrar apenas as alterações (*deltas*), otimizando o espaço em disco através de backups incrementais.
+* **Segurança GPG:** Implementação de proteção de dados em repouso através de criptografia **GPG (GnuPG)**, garantindo a confidencialidade das informações mesmo em repositórios públicos.
+* **Recuperação de Desastres:** Realização de testes práticos de restauração para validar a integridade dos dados e mensurar o tempo de recuperação (RTO).
 
 ### 🧹 Sanitização e Destruição Segura de Dados
 * **Padrão DoD 5220.22-M:** Aplicação de técnicas militares de sobrescrita de dados utilizando o comando `shred` com múltiplas passagens (random e zero-fill).
 * **Limpeza de Metadados:** Utilização de `wipefs` e `dd` (com `/dev/urandom`) para eliminar assinaturas de sistemas de arquivos e rastros digitais em partições nvme, inviabilizando a recuperação forense.
 
-## 🛠️ Tecnologias Utilizadas
+### 🛠️ Tecnologias Utilizadas
 * **Sistemas:** Kali Linux, Windows Server 2022.
-* **Ferramentas de Backup:** `duplicity`, `rsync`, `rclone/onedrive`.
-* **Segurança Forense:** `shred`, `wipefs`, `gnupg`.
-* **Gestão de Discos:** `mdadm`, `fdisk`, `mkfs`.
+* **Ferramentas de Backup:** `duplicity`, `rsync`, `OneDrive`.
+* **Segurança Forense:** `shred` (Padrão DoD), `wipefs`, `dd`.
+* **Gestão de Discos:** `mdadm`, `fdisk`, `mkfs.ext4`.
 
 ---
 **AWS Certified Cloud Practitioner | Estudante de ADS na UNINTER | Aspirante a DevOps**
