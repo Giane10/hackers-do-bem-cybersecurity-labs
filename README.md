@@ -42,7 +42,7 @@ Navegue pelos links abaixo para conferir o detalhamento metodológico, ferrament
 
 * 📂 [**Módulo 09: Segurança em Redes e Protocolos**](./Modulo-09/README.md)
    * *Status: Concluído *✅
-   * *Foco: Defesa de Infraestrutura: Análise de pacotes (Wireshark/Tcpdump), IDS/IPS (Suricata), Firewall (Iptables/UFW) e Hardening de Protocolos (SSH/TLS).*
+   * *Foco: Defesa de Infraestrutura: Monitoramento de tráfego (Wireshark), Detecção de Intrusão (Suricata IDS/IPS), Firewall (Iptables) e Segurança de Protocolos.*
 
 * 📁 **Módulo 10: **
   
