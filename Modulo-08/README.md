@@ -28,4 +28,4 @@ Este repositório documenta as implementações práticas de técnicas avançada
 * **Algoritmos:** AES-256, RSA-2048, ECC-256, SHA-3, Blake2.
 
 ---
-*Status: Repositório atualizado com evidências práticas e documentação técnica.* ✅
+Este registro faz parte do meu portfólio no programa Hackers do Bem, integrando segurança com meus objetivos em Cloud e DevOps.
