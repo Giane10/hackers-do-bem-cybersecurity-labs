@@ -29,14 +29,18 @@ Navegue pelos links abaixo para conferir o detalhamento metodológico, ferrament
    * *Foco: Autenticação centralizada com RADIUS, implementação de MFA/2FA (TOTP), hardening de acesso e gestão de tokens cross-platform.
 
 * 📁 [**Módulo 6: Proteção Web e Desenvolvimento Seguro](./Modulo-06/README.md)
-   * *Status: Concluído (Aguardando correção..)*
+   * *Status: Concluído *✅
    * *Foco: Segurança Web (OWASP Top 10), automação de auditoria com Python/PowerShell e Ciclo de Vida de Desenvolvimento Seguro (SDLC).
 
 * 📁 [**Módulo 7: Redundância, Backup, Segurança física e Destruição de dados](./Modulo-07/README.md)
-   * *Status: Concluído (Aguardando correção..)*
+   * *Status: Concluído *✅
    * *Foco: Resiliência de Dados: RAID 0/1, Backups Criptografados (Duplicity) e Sanitização DoD 5220.22-M.
 
-* 📁 **Módulo 08: **
+* 📁 [**Módulo 8 - Criptografia e Proteção de Informação](./Modulo-08/README.md)
+   * *Status: Concluído *✅
+   * *Foco: Proteção de Dados: Esteganografia (steghide), Cifragem Simétrica/Assimétrica (AES-256, RSA, ECC), Assinaturas Digitais e Integridade (Hashes MD5/SHA/Blake2).
+
+* 📁 **Módulo 09: **
   
     * *Status: Em breve...* ⏳
 ---
