@@ -23,4 +23,4 @@ Este repositório documenta as implementações práticas de isolamento de ambie
 * **Sistemas:** Kali Linux, Windows.
 
 ---
-*Status: Repositório atualizado com as evidências das práticas de virtualização e criptografia.* ✅
+*Este registro faz parte do meu portfólio no programa **Hackers do Bem**, integrando segurança com meus objetivos em Cloud e DevOps.*
