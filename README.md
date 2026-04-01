@@ -44,7 +44,11 @@ Navegue pelos links abaixo para conferir o detalhamento metodológico, ferrament
    * *Status: Concluído *✅
    * *Foco: Defesa de Infraestrutura: Monitoramento de tráfego (Wireshark), Detecção de Intrusão (Suricata IDS/IPS), Firewall (Iptables) e Segurança de Protocolos.*
 
-* 📁 **Módulo 10: **
+* 📂 [**Módulo 10: Segurança de Sistemas e Aplicações**](./Modulo-10/README.md)
+   * *Status: Concluído *✅
+   * *Foco: Isolamento e Containers: Virtualização (VirtualBox), Criptografia de disco (LUKS) e Orquestração básica de Containers (Docker).*
+
+* 📁 **Módulo 11: **
   
     * *Status: Em breve...* ⏳
 ---
