@@ -40,11 +40,11 @@ Navegue pelos links abaixo para conferir o detalhamento metodológico, ferrament
    * *Status: Concluído *✅
    * *Foco: Proteção de Dados: Esteganografia (steghide), Cifragem Simétrica/Assimétrica (AES-256, RSA, ECC), Assinaturas Digitais e Integridade (Hashes MD5/SHA/Blake2).
 
-* 📂 [**Módulo 09: Segurança em Redes e Protocolos**](./Modulo-09/README.md)
+* 📂 [**Módulo 9: Infraestrutura de Chaves Públicas e Blockchain **](./Modulo-09/README.md)
    * *Status: Concluído *✅
-   * *Foco: Defesa de Infraestrutura: Monitoramento de tráfego (Wireshark), Detecção de Intrusão (Suricata IDS/IPS), Firewall (Iptables) e Segurança de Protocolos.*
+   * *Foco: Gestão de Identidade e Ativos: Autoridades Certificadoras (PKI), Certificados X.509 (OpenSSL), CSR e Tecnologia Blockchain (Wallets/Bitcoin).*
 
-* 📂 [**Módulo 10: Segurança de Sistemas e Aplicações**](./Modulo-10/README.md)
+* 📂 [**Módulo 10: Segurança de Sistemas e Aplicações(no Host)**](./Modulo-10/README.md)
    * *Status: Concluído *✅
    * *Foco: Isolamento e Containers: Virtualização (VirtualBox), Criptografia de disco (LUKS) e Orquestração básica de Containers (Docker).*
 
