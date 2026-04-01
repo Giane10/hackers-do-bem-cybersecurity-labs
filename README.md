@@ -40,7 +40,11 @@ Navegue pelos links abaixo para conferir o detalhamento metodológico, ferrament
    * *Status: Concluído *✅
    * *Foco: Proteção de Dados: Esteganografia (steghide), Cifragem Simétrica/Assimétrica (AES-256, RSA, ECC), Assinaturas Digitais e Integridade (Hashes MD5/SHA/Blake2).
 
-* 📁 **Módulo 09: **
+* 📂 [**Módulo 09: Segurança em Redes e Protocolos**](./Modulo-09/README.md)
+   * *Status: Concluído *✅
+   * *Foco: Defesa de Infraestrutura: Análise de pacotes (Wireshark/Tcpdump), IDS/IPS (Suricata), Firewall (Iptables/UFW) e Hardening de Protocolos (SSH/TLS).*
+
+* 📁 **Módulo 10: **
   
     * *Status: Em breve...* ⏳
 ---
