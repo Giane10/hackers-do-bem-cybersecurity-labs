@@ -48,7 +48,11 @@ Navegue pelos links abaixo para conferir o detalhamento metodológico, ferrament
    * *Status: Concluído *✅
    * *Foco: Isolamento e Containers: Virtualização (VirtualBox), Criptografia de disco (LUKS) e Orquestração básica de Containers (Docker).*
 
-* 📁 **Módulo 11: **
+* 📂 [**Módulo 11: Rede Segura e Equipamentos de Segurança**](./Modulo-11/README.md)
+   * *Status: Concluído* ✅
+   * *Foco: Defesa de Host: Controle de tráfego (QoS/Traffic Shaping), Firewall Avançado (Iptables Filter/NAT), Tunelamento Criptografado (OpenVPN) e Segurança de Camada 2 (MAC Spoofing).*
+
+* 📁 **Módulo 12: **
   
     * *Status: Em breve...* ⏳
 ---
