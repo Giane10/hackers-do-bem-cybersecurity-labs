@@ -52,7 +52,11 @@ Navegue pelos links abaixo para conferir o detalhamento metodológico, ferrament
    * *Status: Concluído* ✅
    * *Foco: Defesa de Host: Controle de tráfego (QoS/Traffic Shaping), Firewall Avançado (Iptables Filter/NAT), Tunelamento Criptografado (OpenVPN) e Segurança de Camada 2 (MAC Spoofing).*
 
-* 📁 **Módulo 12: **
+* 📂 [**Módulo 12: Resposta a Incidentes e Protocolos Seguros**](./Modulo-12/README.md)
+   * *Status: Concluído* ✅
+   * *Foco: Forense Digital (ExifTool e The Sleuth Kit), Preservação de Evidências (dd), Monitoramento de Tráfego (Wireshark/TLS) e Auditoria de Sistemas (Logs de Eventos e NTP).*
+
+* 📁 **Especialização **
   
     * *Status: Em breve...* ⏳
 ---
